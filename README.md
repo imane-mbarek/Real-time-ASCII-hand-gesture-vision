@@ -7,16 +7,6 @@
 ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-<div align="center">
-
-**Your face. In characters. Controlled by your hands.**
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=flat-square&logo=opencv)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
-
-</div>
 
 ---
 
@@ -156,6 +146,6 @@ A dark pixel becomes `@`. A bright pixel becomes a space.
 
 <div align="center">
 
-Made with OpenCV · MediaPipe · ASCII
+Made with IMANE AIT MBAREK :)
 
 </div>
